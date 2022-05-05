@@ -1,2 +1,2 @@
 # senorita-buton-rol-bot
-Discord Buton Rol Botu
+Tutorial : https://www.youtube.com/watch?v=9tjr2fdvM0s
